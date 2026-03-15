@@ -14,4 +14,10 @@ public class Banco {
             System.out.println(conta);
         }
     }
+
+    public void excluirConta(Conta conta) {
+        contas.remove(conta);
+    }
+
+
 }
