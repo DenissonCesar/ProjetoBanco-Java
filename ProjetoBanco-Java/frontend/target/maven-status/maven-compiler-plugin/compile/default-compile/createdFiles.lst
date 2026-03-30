@@ -1,0 +1,7 @@
+com/bancofx/controller/BloqueioTab.class
+com/bancofx/controller/TributosTab.class
+com/bancofx/controller/TopSaldosTab.class
+com/bancofx/MainApp.class
+com/bancofx/service/ApiService.class
+com/bancofx/controller/OperacoesTab.class
+com/bancofx/controller/ContaTab.class

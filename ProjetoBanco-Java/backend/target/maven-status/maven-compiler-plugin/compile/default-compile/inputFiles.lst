@@ -1,0 +1,15 @@
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/service/ContaService.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/BloqueioDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/TransferenciaDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/controller/ContaController.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/model/ContaPoupanca.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/CriarContaDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/service/AuthService.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/LoginDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/OperacaoDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/repository/ContaRepository.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/model/ContaCorrente.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/controller/AuthController.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/dto/RespostaDTO.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/model/Conta.java
+/Users/denissoncesar/Downloads/banco-fullstack 2/backend/src/main/java/com/banco/BancoApiApplication.java

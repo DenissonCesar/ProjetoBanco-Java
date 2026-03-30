@@ -1,0 +1,15 @@
+com/banco/dto/LoginDTO.class
+com/banco/dto/OperacaoDTO.class
+com/banco/dto/RespostaDTO.class
+com/banco/model/ContaCorrente.class
+com/banco/repository/ContaRepository.class
+com/banco/BancoApiApplication.class
+com/banco/controller/AuthController.class
+com/banco/model/Conta.class
+com/banco/dto/BloqueioDTO.class
+com/banco/dto/CriarContaDTO.class
+com/banco/service/AuthService.class
+com/banco/controller/ContaController.class
+com/banco/model/ContaPoupanca.class
+com/banco/dto/TransferenciaDTO.class
+com/banco/service/ContaService.class
